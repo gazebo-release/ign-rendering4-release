@@ -1,3 +1,9 @@
+ignition-rendering4 (4.3.1-1~bionic) bionic; urgency=medium
+
+  * ignition-rendering4 4.3.1-1 release
+
+ -- Ashton Larkin <ashton@openrobotics.org>  Wed, 03 Feb 2021 19:32:34 -0500
+
 ignition-rendering4 (4.3.0-1~bionic) bionic; urgency=medium
 
   * ignition-rendering4 4.3.0-1 release
